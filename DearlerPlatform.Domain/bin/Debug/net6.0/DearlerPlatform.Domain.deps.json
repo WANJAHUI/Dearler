@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DearlerPlatform.Domain/1.0.0": {
+        "runtime": {
+          "DearlerPlatform.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DearlerPlatform.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,3 @@
+c:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Domain\bin\Debug\net6.0\publish\DearlerPlatform.Domain.dll
+c:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Domain\bin\Debug\net6.0\publish\DearlerPlatform.Domain.deps.json
+c:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Domain\bin\Debug\net6.0\publish\DearlerPlatform.Domain.pdb

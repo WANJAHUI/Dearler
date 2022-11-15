@@ -1,0 +1,17 @@
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net5.0\DearlerPlatform.Core.deps.json
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net5.0\DearlerPlatform.Core.runtimeconfig.json
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net5.0\DearlerPlatform.Core.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net5.0\DearlerPlatform.Core.dll
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net5.0\ref\DearlerPlatform.Core.dll
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net5.0\DearlerPlatform.Core.pdb
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net5.0\DearlerPlatform.Domain.dll
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net5.0\DearlerPlatform.Domain.pdb
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net5.0\DearlerPlatform.Core.csproj.AssemblyReference.cache
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net5.0\DearlerPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net5.0\DearlerPlatform.Core.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net5.0\DearlerPlatform.Core.AssemblyInfo.cs
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net5.0\DearlerPlatform.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net5.0\DearlerPlatform.Core.dll
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net5.0\ref\DearlerPlatform.Core.dll
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net5.0\DearlerPlatform.Core.pdb
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net5.0\DearlerPlatform.Core.genruntimeconfig.cache

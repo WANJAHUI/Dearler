@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\DearlerPlatform.Core\DearlerPlatform.Core.csproj" />
+    <ProjectReference Include="..\DearlerPlatform.Domain\DearlerPlatform.Domain.csproj" />
+    <ProjectReference Include="..\DearlerPlatform.Common\DearlerPlatform.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+	  <Reference Include="Extensions">
+	    <HintPath>..\..\References\packages\Extensions.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 13,
+    "files.exclude": {
+        "**/bin": true,
+        "**/DearlerPlatform.Web": true,
+        "**/obj": true
+    },
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": false
+}

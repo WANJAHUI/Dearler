@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj": {}
+  },
+  "projects": {
+    "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj",
+        "projectName": "DearlerPlatform.Common",
+        "projectPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Administrator\\Desktop\\Bt_DDD\\BtPackage": {},
+          "D:\\G2N\\gskg2n\\backend\\CafPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
+                "projectPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.88, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
+        "projectName": "DearlerPlatform.Core",
+        "projectPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Administrator\\Desktop\\Bt_DDD\\BtPackage": {},
+          "D:\\G2N\\gskg2n\\backend\\CafPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+                "projectPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2021.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
+        "projectName": "DearlerPlatform.Domain",
+        "projectPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Administrator\\Desktop\\Bt_DDD\\BtPackage": {},
+          "D:\\G2N\\gskg2n\\backend\\CafPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj",
+        "projectName": "DearlerPlatform.Extensions",
+        "projectPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Administrator\\Desktop\\Bt_DDD\\BtPackage": {},
+          "D:\\G2N\\gskg2n\\backend\\CafPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj": {
+                "projectPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj"
+              },
+              "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
+                "projectPath": "D:\\XunLei\\linux学习资料\\经销商平台专题\\经销商代码\\20211215FullStack02Course122-DearlerPlatform28\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

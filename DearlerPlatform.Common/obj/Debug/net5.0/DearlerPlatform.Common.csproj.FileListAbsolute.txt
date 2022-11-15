@@ -1,0 +1,12 @@
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\bin\Debug\net5.0\DearlerPlatform.Common.deps.json
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\bin\Debug\net5.0\DearlerPlatform.Common.dll
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\bin\Debug\net5.0\ref\DearlerPlatform.Common.dll
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\bin\Debug\net5.0\DearlerPlatform.Common.pdb
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net5.0\DearlerPlatform.Common.csproj.AssemblyReference.cache
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net5.0\DearlerPlatform.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net5.0\DearlerPlatform.Common.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net5.0\DearlerPlatform.Common.AssemblyInfo.cs
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net5.0\DearlerPlatform.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net5.0\DearlerPlatform.Common.dll
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net5.0\ref\DearlerPlatform.Common.dll
+C:\Users\Ace\Desktop\dealer_platform\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net5.0\DearlerPlatform.Common.pdb
